@@ -1,6 +1,8 @@
 # Deep active inference model of the rubber-hand illusion
 
-This repository contains the full code used in "A deep active inference model of the rubber-hand illusion"<sup>1</sup>. This repository consists of two parts: The environment modelled in Unity and a Python repository containing the agent code. These components interact by means of the [ML-Agents Toolkit for Unity](https://github.com/Unity-Technologies/ml-agents).
+This repository contains the full code used in the publication: Thomas Rood, Marcel van Gerven, and Pablo Lanillos (2020, September). [A deep active inference model of the rubber-hand illusion](https://doi.org/10.1007/978-3-030-64919-7_10). In Tim Verbelen, Pablo Lanillos,  Christopher L. Buckley, and Cedric De Boom, editors, *Active Inference*, pages 84–91, Cham, 2020. Springer International Publishing. 
+
+This repository consists of two parts: The environment modelled in Unity and a Python repository containing the agent code. These components interact by means of the [ML-Agents Toolkit for Unity](https://github.com/Unity-Technologies/ml-agents).
 
 
 ## Setup
@@ -58,6 +60,3 @@ abstract="Understanding how perception and action deal with sensorimotor conflic
 isbn="978-3-030-64919-7"
 }
 ```
-
-
-<sup>1</sup> Thomas Rood, Marcel van Gerven, and Pablo Lanillos. [A deep active inference model of the rubber-hand illusion](https://doi.org/10.1007/978-3-030-64919-7_10). In Tim Verbelen, Pablo Lanillos,  Christopher L. Buckley, and Cedric De Boom, editors, *Active Inference*, pages 84–91, Cham, 2020. Springer International Publishing.
