@@ -8,7 +8,7 @@ This repository consists of two parts: The environment modelled in Unity and a P
 ## Setup
 To use the environment and Python code, clone this repository or download its contents directly from the [latest release](https://github.com/thomasroodnl/active-inference-rhi/releases/tag/v1.0). 
 ```sh
-git clone https://github.com/thomasroodnl/active-inference-rhi.git
+git clone https://github.com/pl-robotdecision/deep-active-inference-rhi.git
 ```
 ### Installing the necessary packages
 The fastest way to get the Python environment up and running is by creating a new conda environment (for the installation of conda see: [link](https://conda.io/projects/conda/en/latest/user-guide/install/index.html)). The repository contains a file named 'conda-environment.yml', which can be used to automatically create a conda environment containing the right packages. To create an environment from this file:
